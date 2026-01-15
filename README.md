@@ -20,11 +20,11 @@
  
 ## 作品リスト
 - はこよけ
- ![箱よけ](images/hakoyoke.png)
+ ![箱よけ](images/hakoyoke.png)<br>
  球体を左右に動かし壁をよける<br>
 
 - ミラーミー
- ![ミラーミー](images/1weekgamejam.png)
+ ![ミラーミー](images/1weekgamejam.png)<br>
  移動が左右反転している球体を動かして進む<br>
  横スクロールのゲーム(未完成)
 
